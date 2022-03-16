@@ -1,2 +1,2 @@
-# design-pattern
+# designPattern
 personal study for design pattern
